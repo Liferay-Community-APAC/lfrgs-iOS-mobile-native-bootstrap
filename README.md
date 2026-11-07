@@ -1,6 +1,6 @@
 # Liferay iOS Native Bootstrap
 
-[![Liferay](https://github.com/LGSAPAC/lfrgs-iOS-mobile-native-bootstrap/actions/workflows/liferay.yml/badge.svg)](https://github.com/LGSAPAC/lfrgs-iOS-mobile-native-bootstrap/actions/workflows/liferay.yml)
+[![Liferay](https://github.com/Liferay-Community-APAC/lfrgs-iOS-mobile-native-bootstrap/actions/workflows/liferay.yml/badge.svg)](https://github.com/Liferay-Community-APAC/lfrgs-iOS-mobile-native-bootstrap/actions/workflows/liferay.yml)
 
 > [!IMPORTANT]
 > **Unofficial reference, not official documentation.** This repository is an unofficial reference
